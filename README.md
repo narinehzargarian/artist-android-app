@@ -41,6 +41,6 @@ Watch the app in action:
 2. **Open** in Android Studio
    - Select the app/module
    - Let Gradle sync
-3. **Run on the emulator or device
+3. **Run** on the emulator or device
 
 
